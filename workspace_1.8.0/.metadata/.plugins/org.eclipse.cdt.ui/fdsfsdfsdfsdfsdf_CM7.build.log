@@ -1,0 +1,10 @@
+13:38:34 **** Incremental Build of configuration Debug for project fdsfsdfsdfsdfsdf_CM7 ****
+make -j12 all 
+arm-none-eabi-size   fdsfsdfsdfsdfsdf_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12496	     24	   1568	  14088	   3708	fdsfsdfsdfsdfsdf_CM7.elf
+Finished building: default.size.stdout
+ 
+
+13:38:34 Build Finished. 0 errors, 0 warnings. (took 234ms)
+

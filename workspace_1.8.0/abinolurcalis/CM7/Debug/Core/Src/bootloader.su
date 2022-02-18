@@ -1,0 +1,1 @@
+bootloader.c:9:13:JumpToBootloader	32	static,ignoring_inline_asm

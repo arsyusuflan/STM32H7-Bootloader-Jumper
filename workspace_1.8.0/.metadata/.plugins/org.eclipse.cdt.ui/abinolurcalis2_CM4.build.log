@@ -1,0 +1,10 @@
+10:12:23 **** Incremental Build of configuration Debug for project abinolurcalis2_CM4 ****
+make -j12 all 
+arm-none-eabi-size   abinolurcalis2_CM4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  51752	    216	   4536	  56504	   dcb8	abinolurcalis2_CM4.elf
+Finished building: default.size.stdout
+ 
+
+10:12:23 Build Finished. 0 errors, 0 warnings. (took 345ms)
+

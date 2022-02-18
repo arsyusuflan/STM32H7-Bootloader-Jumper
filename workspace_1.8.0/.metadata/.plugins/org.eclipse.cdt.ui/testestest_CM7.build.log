@@ -1,0 +1,10 @@
+09:26:49 **** Build of configuration Debug for project testestest_CM7 ****
+make -j12 all 
+arm-none-eabi-size   testestest_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19556	     24	   1712	  21292	   532c	testestest_CM7.elf
+Finished building: default.size.stdout
+ 
+
+09:26:50 Build Finished. 0 errors, 0 warnings. (took 437ms)
+

@@ -1,0 +1,10 @@
+10:22:31 **** Build of configuration Debug for project abinolurcalis_CM4 ****
+make -j12 all 
+arm-none-eabi-size   abinolurcalis_CM4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  52444	    216	   4824	  57484	   e08c	abinolurcalis_CM4.elf
+Finished building: default.size.stdout
+ 
+
+10:22:32 Build Finished. 0 errors, 0 warnings. (took 363ms)
+
