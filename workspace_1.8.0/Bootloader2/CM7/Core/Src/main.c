@@ -129,7 +129,7 @@ Error_Handler();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
   HAL_Delay(5000);
-  HAL_UART_Transmit(&huart1, (uint8_t*)"Starting Boot\n", 14, 100);
+  HAL_UART_Transmit(&huart1, (uint8_t*)"Starting Boot test\n", 14, 100);
 //printf("Starting Bootloader (%d.%d)\n", BL_Version[0], BL_Version[1]);
 HAL_GPIO_WritePin(GPIOI, GPIO_PIN_15, GPIO_PIN_RESET);
 HAL_Delay(2000);
